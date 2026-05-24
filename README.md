@@ -31,3 +31,6 @@ key revenue drivers across countries, products, and customer segments.
 | `chart2_country_sales.png` | Sales by country |
 | `chart3_product_sales.png` | Sales by product line |
 | `chart4_deal_size.png` | Deal size breakdown |
+
+## 🔗 Live Dashboard
+👉 [View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTM3NmMxNTktNjQyMi00YWU3LTk4MjgtY2RhN2IxYTUxNmJmIiwidCI6IjgyM2NkZTQ0LTQ0MzMtNDU2ZC1iODAxLWJkZjBhYjNkNDFmYyIsImMiOjEwfQ%3D%3D)
