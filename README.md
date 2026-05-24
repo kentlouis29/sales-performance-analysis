@@ -34,3 +34,8 @@ key revenue drivers across countries, products, and customer segments.
 
 ## 🔗 Live Dashboard
 👉 [View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTM3NmMxNTktNjQyMi00YWU3LTk4MjgtY2RhN2IxYTUxNmJmIiwidCI6IjgyM2NkZTQ0LTQ0MzMtNDU2ZC1iODAxLWJkZjBhYjNkNDFmYyIsImMiOjEwfQ%3D%3D)
+
+## 📸 Dashboard Preview
+![Executive Summary](page1_executive.png)
+![Product Analysis](page2_products.png)
+![Customer Intelligence](page3_customers.png)
